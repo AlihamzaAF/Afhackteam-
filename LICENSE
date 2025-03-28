@@ -1,0 +1,11 @@
+4. **Additional recommended files**:
+   - `LICENSE` (MIT License recommended)
+   - `.gitignore` (to exclude unnecessary files)
+   - `install.sh` (for easy installation of dependencies)
+
+5. **Upload to GitHub**:
+   - You can use GitHub Desktop or command line:
+   ```bash
+   git add .
+   git commit -m "Initial commit"
+   git push origin main
